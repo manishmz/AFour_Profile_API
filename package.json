@@ -24,7 +24,7 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "ts-node-dev": "^1.0.0-pre.42",
     "typescript": "^3.6.3"
   }
